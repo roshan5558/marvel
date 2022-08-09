@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Marvel</string>
+
+    <string name="image_character">Image Character</string>
+    <string name="image_bookmark">Image bookmark</string>
+    <string name="image_series_cover">Image series cover</string>
+    <string name="image_comics_cover">Image comics cover</string>
+    <string name="no_bookmarks_found">No bookmark found</string>
+    <string name="recommended_comics">RECOMMENDED COMICS</string>
+    <string name="recommended_series">RECOMMENDED SERIES</string>
+    <string name="see_all">SEE ALL ></string>
+</resources>
